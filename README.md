@@ -1,2 +1,2 @@
-# NLP_Basics
-This contains my learnings in text analysis
+# Movie Review Sentiment Analysis
+
